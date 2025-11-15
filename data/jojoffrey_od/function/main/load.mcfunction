@@ -1,0 +1,1 @@
+function jojoffrey_od:glow_ore/init

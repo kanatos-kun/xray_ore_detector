@@ -1,0 +1,2 @@
+execute if score @s is_equipped_with_detector_enchantment matches 1 run function jojoffrey_od:glow_ore/unequip_kill_shulker
+scoreboard players set @s is_equipped_with_detector_enchantment 0

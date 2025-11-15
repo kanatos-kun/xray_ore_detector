@@ -1,0 +1,1 @@
+$summon shulker ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,Team:$(color),Glowing:1b,DeathLootTable:"minecraft:empty",PersistenceRequired:0b,NoAI:1b,AttachFace:0b,active_effects:[{id:"minecraft:resistance",amplifier:100,duration:-1,show_particles:0b,show_icon:0b,ambient:0b},{id:"minecraft:invisibility",amplifier:0,duration:-1,show_particles:0b,show_icon:0b,ambient:0b}]}

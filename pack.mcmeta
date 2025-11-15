@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "Add detector enchant. When having the enchant, glow the nearby ore.",
+        "min_format": [88,0],
+        "max_format": [88,0]
+    }
+}

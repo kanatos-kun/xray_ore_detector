@@ -1,0 +1,15 @@
+execute as @s run function jojoffrey_od:glow_ore/glow_ore {ore:"minecraft:deepslate_diamond_ore",color:"cyan_color"}
+execute as @s run function jojoffrey_od:glow_ore/glow_ore {ore:"minecraft:diamond_ore",color:"cyan_color"}
+execute as @s run function jojoffrey_od:glow_ore/glow_ore {ore:"minecraft:deepslate_gold_ore",color:"gold_color"}
+execute as @s run function jojoffrey_od:glow_ore/glow_ore {ore:"minecraft:gold_ore",color:"gold_color"}
+execute as @s run function jojoffrey_od:glow_ore/glow_ore {ore:"minecraft:deepslate_iron_ore",color:"white_color"}
+execute as @s run function jojoffrey_od:glow_ore/glow_ore {ore:"minecraft:iron_ore",color:"white_color"}
+execute as @s run function jojoffrey_od:glow_ore/glow_ore {ore:"minecraft:minecraft:deepslate_copper_ore",color:"white_color"}
+execute as @s run function jojoffrey_od:glow_ore/glow_ore {ore:"minecraft:copper_ore",color:"white_color"}
+execute as @s run function jojoffrey_od:glow_ore/glow_ore {ore:"minecraft:deepslate_coal_ore",color:"black_color"}
+execute as @s run function jojoffrey_od:glow_ore/glow_ore {ore:"minecraft:coal_ore",color:"black_color"}
+execute as @s run function jojoffrey_od:glow_ore/glow_ore {ore:"minecraft:deepslate_redstone_ore",color:"red_color"}
+execute as @s run function jojoffrey_od:glow_ore/glow_ore {ore:"minecraft:redstone_ore",color:"red_color"}
+execute as @s run function jojoffrey_od:glow_ore/glow_ore {ore:"minecraft:deepslate_emerald_ore",color:"green_color"}
+execute as @s run function jojoffrey_od:glow_ore/glow_ore {ore:"minecraft:emerald_ore",color:"green_color"}
+execute as @s run function jojoffrey_od:glow_ore/glow_ore {ore:"minecraft:ancient_debris",color:"black_color"}
